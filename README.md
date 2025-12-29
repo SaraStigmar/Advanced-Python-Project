@@ -65,6 +65,7 @@ R² (coefficient of determination)
 Low explanatory power is expected given the multifactor nature of inflation.
 
 Dashboard
+--------------
 
 An interactive dashboard built with Plotly presents:
 
@@ -79,6 +80,7 @@ Short interpretative text to guide analysis
 The dashboard is exported as a standalone HTML file.
 
 Key Findings
+---------------
 
 - The relationship between policy rates and inflation is weak but generally negative.
 - Stronger associations appear at longer lags, consistent with monetary policy transmission delays. 
@@ -90,6 +92,7 @@ Limitations and Extensions
 
 
 Files Included
+---------------
 
 Jupyter notebook containing data retrieval, analysis, and modeling
 
